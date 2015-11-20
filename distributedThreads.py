@@ -1,6 +1,6 @@
 #!/usr/bin/python2.7
 #
-# Assignment3 Interface ~ Jasdeep
+# Author ~ Jasdeep
 #
 
 import threading
